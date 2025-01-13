@@ -68,7 +68,3 @@ Automate the process of downloading sections of the Income Tax Act as PDF files.
 
 ## **License**
 This project is licensed under the MIT License. Feel free to use and modify as needed.
-
----
-
-Feel free to enhance the script or adapt it for other use cases! Contributions and feedback are always welcome. 😊
